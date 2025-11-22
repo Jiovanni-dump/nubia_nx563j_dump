@@ -1,0 +1,14 @@
+# NX563J-user 9 PKQ1.181021.001 eng.nubia.20201107.105312 release-keys
+- manufacturer: nubia
+- platform: 
+- codename: NX563J
+- flavor: NX563J-user
+- release: 9
+- id: PKQ1.181021.001
+- incremental: eng.nubia.20201107.105312
+- tags: release-keys
+- fingerprint: nubia/NX563J/NX563J:9/PKQ1.181021.001/eng.nubia.20201107.105312:user/release-keys
+- is_ab: false
+- brand: nubia
+- branch: NX563J-user-9-PKQ1.181021.001-eng.nubia.20201107.105312-release-keys
+- repo: nubia_nx563j_dump
